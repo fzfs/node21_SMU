@@ -1,5 +1,5 @@
 # node21_SMU
-This codebase implements a model for the nodule detection track in [NODE21](https://node21.grand-challenge.org/), based on [official baseline](https://github.com/node21challenge/node21_detection_baseline)
+This codebase implements a model for the nodule detection track in [NODE21](https://node21.grand-challenge.org/), based on [official baseline](https://github.com/node21challenge/node21_detection_baseline).
 
 The container is at [algorithms](https://grand-challenge.org/algorithms/node21_baseline_official/).
 
